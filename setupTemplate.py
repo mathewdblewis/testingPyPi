@@ -1,4 +1,4 @@
-metaData={"major": 0, "minor": 0, "patch": 11, "projName": "mdblewisProj1"}
+
 
 from setuptools import setup, find_packages
 import json
